@@ -12,6 +12,10 @@ mov al, 'T'
 
 int 0x10
 
+mov al, 'O'
+
+int 0x10
+
 int 0x10 ; 'O' is still on al, remember?
 
 mov al, 'S'
