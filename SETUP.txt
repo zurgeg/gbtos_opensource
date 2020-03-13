@@ -1,0 +1,4 @@
+Download: https://github.com/lordmilko/i686-elf-tools/releases
+Unzip: https://github.com/lordmilko/i686-elf-tools/releases
+Change Directory into: https://github.com/lordmilko/i686-elf-tools/releases
+END
